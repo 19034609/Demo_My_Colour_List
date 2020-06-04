@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo My Colour List</string>
+    <string name="btnAddColour">Add new \ncolour</string>
+    <string name="btnRemoveColour">Remove a \ncolour</string>
+    <string name="btnUpdateColour">Update a \ncolour</string>
+</resources>
